@@ -11058,13 +11058,13 @@ transform:scale(2.25)
 	font-family: 'Montserrat', sans-serif;
 	color: #676767;
 	text-align: left;
-	line-height: 28px;
+	line-height: 18px;
 	padding-top: 15px;
 	margin: 0 auto
 }
 .themes-paragraph-bottom b {
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 400;
 	font-family: 'Montserrat', sans-serif;
 	color: #676767
 }
@@ -11074,9 +11074,9 @@ transform:scale(2.25)
 }
 .read_more-button a {
 	text-decoration: none;
-	color: #fff;
+	color: #ffffff;
 	padding: 15px 40px;
-	background-color: #007aff;
+	background-color: #000000;
 	text-transform: capitalize;
 	font-size: 12px;
 	font-weight: 500;
@@ -11087,7 +11087,8 @@ transform:scale(2.25)
 	transition: all 0.5s
 }
 .read_more-button a:hover {
-	background-color: #de3056
+	background-color: #ffffff;
+	color: #007aff;
 }
 .theme-frontend-image {
 	position: relative
@@ -11414,7 +11415,7 @@ transform:translateyy(0px)
 .work-blog-img {
 	width: 46px;
 	height: 46px;
-	background-color: #ff923a;
+	background-color: #007aff;
 	border-radius: 100%;
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -11429,7 +11430,7 @@ transform:translateyy(0px)
 	margin-left: auto
 }
 .work-blog-img i {
-	color: #fff;
+	color: #007aff;
 	font-size: 20px
 }
 .view-full-width {
@@ -11979,7 +11980,7 @@ transform:translateyy(0px)
 	font-size: 30px;
 	font-weight: 600;
 	font-family: 'Montserrat', sans-serif;
-	color: #de3056;
+	color: #000000;
 	line-height: 12px;
 	margin: 0px;
 	padding: 0px 0px 15px 0px
@@ -11988,7 +11989,7 @@ transform:translateyy(0px)
 	font-size: 18px;
 	font-weight: 400;
 	font-family: 'Montserrat', sans-serif;
-	color: #c6c6c6;
+	color: #007aff;
 	margin: 0px;
 	padding: 0px
 }
@@ -12027,7 +12028,7 @@ transform:translateyy(0px)
 	padding: 0px;
 	margin: 0px;
 	text-align: left;
-	font-size: 30px;
+	font-size: 60px;
 	font-weight: 600;
 	font-family: 'Montserrat', sans-serif;
 	color: #fff;
@@ -12038,7 +12039,7 @@ transform:translateyy(0px)
 	margin-bottom: 48px !important
 }
 .right-blog-content h2 {
-	font-size: 16px;
+	font-size: 25px;
 	font-weight: 600;
 	font-family: 'Montserrat', sans-serif;
 	color: #fff;
@@ -12047,25 +12048,25 @@ transform:translateyy(0px)
 	padding-top: 29px
 }
 .right-blog-content span {
-	font-size: 12px;
+	font-size: 15px;
 	font-weight: 600;
 	font-family: 'Montserrat', sans-serif;
 	color: #fff;
 	padding: 0px;
 	margin: 0px;
 	line-height: 10px;
-	display: block;
+    display: block;
 	margin-top: 15px;
 	margin-bottom: 20px
 }
 .right-blog-content p {
-	font-size: 14px;
+	font-size: 16px;
 	font-weight: 400;
 	font-family: 'Montserrat', sans-serif;
 	color: #fff;
 	padding: 0px;
 	margin: 0px;
-	line-height: 28px;
+	line-height: 22px;
 	margin-bottom: 21px
 }
 .blog-right-button {
